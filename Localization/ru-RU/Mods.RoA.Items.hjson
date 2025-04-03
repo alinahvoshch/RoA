@@ -1,5 +1,5 @@
 ElderwoodClaws: {
-	DisplayName: Когти из истёртого дерева
+	DisplayName: Когти из вечнодерева
 	Tooltip:
 		'''
 		Расходует полный заряд венка, чтобы выпустить частокол из корней
@@ -8,7 +8,7 @@ ElderwoodClaws: {
 }
 
 Elderwood: {
-	DisplayName: Истёртая древесина
+	DisplayName: Вечнодревесина
 	Tooltip: ""
 }
 
