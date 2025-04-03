@@ -1,23 +1,23 @@
 ElderwoodClaws: {
-	DisplayName: Когти из вечного дерева
+	DisplayName: Когти из истёртого дерева
 	Tooltip:
 		'''
-		Тратят полный заряд венка, чтобы вырастить частокол из корней
-		'Изготовлены наподобие когтей нетопыря'
+		Расходует полный заряд венка, чтобы выпустить частокол из корней
+		«Изготовлены по подобию когтям нетопыря»
 		'''
 }
 
 Elderwood: {
-	DisplayName: Вечная древесина
-	// Tooltip: ""
+	DisplayName: Истёртая древесина
+	Tooltip: ""
 }
 
 GutwrenchingHooks: {
-	DisplayName: Кишко-выворачивающие крюки
+	DisplayName: Кишковыворачивающие крюки
 	Tooltip:
 		'''
-		Тратят полный заряд венка, чтобы выпустить плоть и внутренности
-		'Изготовлены наподобие хелицер кримеры'
+		Расходует полный заряд венка, чтобы выпустить плоть и внутренности
+		«Изготовлены по подобию хелицер кримеры»
 		'''
 }
 
@@ -25,8 +25,8 @@ HellfireClaws: {
 	DisplayName: Когти адского пламени
 	Tooltip:
 		'''
-		Тратят полный заряд венка, чтобы открыть огненный разлом
-		'Когти настолько огонь, что зажигают все вокруг'
+		Расходует полный заряд венка, чтобы открыть огненный разлом
+		«Эти когти настолько огонь, что зажигают все вокруг»
 		'''
 }
 
@@ -34,8 +34,8 @@ HorrorPincers: {
 	DisplayName: Клещи ужаса
 	Tooltip:
 		'''
-		Тратят полный заряд венка, чтобы выпустить желчь и гниль
-		'Изготовлены наподобие хелицер пожирателя душ'
+		Расходует полный заряд венка, чтобы выпустить желчь и гниль
+		«Изготовлены по подобию хелицер пожирателя душ»
 		'''
 }
 
@@ -43,8 +43,8 @@ ThornyClaws: {
 	DisplayName: Шипастые когти
 	Tooltip:
 		'''
-		Тратят полный заряд венка, чтобы вырастить людоеда по менбше
-		'Жаль как шершень, кусай как людоед'
+		Расходует полный заряд венка, чтобы вырастить людоеда по менбше
+		«Жаль как шершень, кусай как людоед»
 		'''
 }
 
@@ -55,21 +55,21 @@ ElderwoodChest: {
 
 DryadStatue: {
 	DisplayName: Статуя дриады
-	Tooltip: "'Тем, кто пал защищая Террарию'"
+	Tooltip: «Посвящается тем, кто пал, защищая Террарию»
 }
 
 MiracleMint: {
-	DisplayName: Чудомята
+	DisplayName: Чудо-мята
 	Tooltip: ""
 }
 
 MushroomStaff: {
 	DisplayName: Большая поганка
-	Tooltip: Выпускает параящие споры, что медленно опускаются вниз
+	Tooltip: Выпускает параящие и медленно опускающиеся споры
 }
 
 PastoralRod: {
-	DisplayName: Пастушья трость
+	DisplayName: Трость пастуха
 	Tooltip: Выпускает несколько опавших листьев
 }
 
@@ -78,28 +78,28 @@ RipePumpkin: {
 	Tooltip:
 		'''
 		Бросает тяжелую тыкву
-		Атакуйте вновь, чтобы разорвать её и выпустить семена
+		Ещё раз нажмите кнопку атаки, чтобы взорвать её и выстрелить семенами
 		'''
 }
 
 ExoticTulip: {
 	DisplayName: Экзотичный тюльпан
-	Tooltip: Стреляет розовым лепестком, оставляющим цветочный след
+	Tooltip: Выпускает розовый лепесток, оставляющий цветочный след
 }
 
 SweetTulip: {
 	DisplayName: Сладкий тюльпан
-	Tooltip: Стреляет оранжевым лепестком, привлекающим пчёл
+	Tooltip: Выпускает оранжевый лепесток, привлекающий пчёл
 }
 
 WeepingTulip: {
 	DisplayName: Стенающий тюльпан
-	Tooltip: Стреляет голубым лепестком, создающим взрыв магии
+	Tooltip: Выпускает голубой лепесток, создающий взрыв магии
 }
 
 PineCone: {
 	DisplayName: Сосновая шишка
-	Tooltip: Сотворяет падающую шишку
+	Tooltip: Создаёт падающую шишку на месте курсора
 }
 
 CactiCaster: {
@@ -388,8 +388,8 @@ ElderwoodChest2: {
 }
 
 HellfireFractureTest: {
-	// DisplayName: Hellfire Fracture Test
-	// Tooltip: ""
+	DisplayName: Hellfire Fracture Test
+	Tooltip: ""
 }
 
 SapStream: {
@@ -597,7 +597,7 @@ MercuriumOre: {
 
 Grimstone: {
 	DisplayName: Мрачный камень
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumNugget: {
@@ -626,12 +626,12 @@ LuminousFlowerHat: {
 
 ElderTorch: {
 	DisplayName: Чащобный факел
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 FlamingFabric: {
 	DisplayName: Пылающая ткань
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 NaturesHeart: {
@@ -651,92 +651,92 @@ OniMask: {
 
 ElderwoodBathtub: {
 	DisplayName: Ванна из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodBed: {
 	DisplayName: Кровать из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodBookcase: {
 	DisplayName: Книжный шкаф из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodCandelabra: {
 	DisplayName: Подсвечник из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodCandle: {
 	DisplayName: Свеча из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodChair: {
 	DisplayName: Стул из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodChandelier: {
 	DisplayName: Люстра из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodClock: {
 	DisplayName: Часы из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodDoor: {
 	DisplayName: Дверь из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodDresser: {
 	DisplayName: Комод из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodLamp: {
 	DisplayName: Лампа из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodLantern: {
 	DisplayName: Фонарь из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodPiano: {
 	DisplayName: Пианино из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodPlatform: {
 	DisplayName: Платформа из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodSink: {
 	DisplayName: Раковина из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodSofa: {
 	DisplayName: Диван из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodTable: {
 	DisplayName: Стол из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodWorkbench: {
 	DisplayName: Верстак из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 WeaknessPotion: {
@@ -765,17 +765,17 @@ Herbarium: {
 
 MagicHerb1: {
 	DisplayName: Волшебная трава
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MagicHerb2: {
 	DisplayName: Волшебная трава
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MagicHerb3: {
 	DisplayName: Волшебная трава
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BizarreCowboyHat: {
@@ -799,22 +799,22 @@ JockeyHat: {
 
 MentorsHat: {
 	DisplayName: Котелок наставника
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 PresidentJacket: {
 	DisplayName: Плащ президента
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 PresidentPants: {
 	DisplayName: Брюки президента
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 PresidentWig: {
 	DisplayName: Парик президента
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 SailorHat: {
@@ -829,42 +829,42 @@ StoneMask: {
 
 StrangerCoat: {
 	DisplayName: Пальто странника
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 StrangerPants: {
 	DisplayName: Штаны странника
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DevilHunterCloak: {
 	DisplayName: Плащ охотника на демонов
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DevilHunterPants: {
 	DisplayName: Штаны охотника на демонов
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BunnyHat: {
 	DisplayName: Шапка кролика
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BunnyJacket: {
 	DisplayName: Рубашка кролика
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BunnyPants: {
 	DisplayName: Штаны кролика
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 FlinxFurUshanka: {
 	DisplayName: Ушанка из меха флинкса
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 CopperAcolyteHat: {
@@ -904,17 +904,17 @@ Moss: {
 
 SoapSellersJacket: {
 	DisplayName: Куртка торговца мылом
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 SoapSellersJeans: {
 	DisplayName: Джинсы торговца мылом
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 SoapSellersShades: {
 	DisplayName: Солнцезащитные очки торговца мылом
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 Hedgehog: {
@@ -934,12 +934,12 @@ MothStaff: {
 
 DynastyWoodBow: {
 	DisplayName: Лук из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodBow: {
 	DisplayName: Лук из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumBolter: {
@@ -954,12 +954,12 @@ MercuriumBolt: {
 
 DynastyWoodSword: {
 	DisplayName: Меч из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodSword: {
 	DisplayName: Меч из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumSword: {
@@ -974,7 +974,7 @@ StarFusion: {
 
 RavensEye: {
 	DisplayName: Глаз ворона
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumStaff: {
@@ -984,17 +984,17 @@ MercuriumStaff: {
 
 MiracleMintSeeds: {
 	DisplayName: Семена чудомяты
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MiracleMintPlanterBox: {
 	DisplayName: Горшок для чудомяты
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MiracleMintHangingPot: {
 	DisplayName: Подвесная чудомята
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 FlametrackerHat: {
@@ -1047,17 +1047,17 @@ AmuletOfLife: {
 
 MercuriumAxe: {
 	DisplayName: Ртутный топор
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumHammer: {
 	DisplayName: Ртутный молот
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumPickaxe: {
 	DisplayName: Ртутная кирка
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 WorshipperBonehelm: {
@@ -1090,42 +1090,42 @@ SentinelShield: {
 
 DynastyWoodBreastplate: {
 	DisplayName: Нагрудник из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DynastyWoodHelmet: {
 	DisplayName: Шлем из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DynastyWoodLeggings: {
 	DisplayName: Поножи из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodChestplate: {
 	DisplayName: Нагрудник из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodHelmet: {
 	DisplayName: Шлем из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodLeggings: {
 	DisplayName: Ботинки из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DynastyWoodHammer: {
 	DisplayName: Молот из восточного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodHammer: {
 	DisplayName: Молот из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 CosmicHat: {
@@ -1144,12 +1144,12 @@ BackwoodsCrate: {
 
 ElderwoodFence: {
 	DisplayName: Забор из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodWall: {
 	DisplayName: Стена из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 PrismaticPotion: {
@@ -1159,7 +1159,7 @@ PrismaticPotion: {
 
 ElderwoodToilet: {
 	DisplayName: Унитаз из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 RagingBoots: {
@@ -1172,8 +1172,8 @@ RagingBoots: {
 }
 
 WingIcon: {
-	// DisplayName: ""
-	// Tooltip: ""
+	DisplayName: ""
+	Tooltip: ""
 }
 
 PettyBag: {
@@ -1211,17 +1211,17 @@ LothorBag: {
 
 LothorMask: {
 	DisplayName: Маска Лотора
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 LothorMusicBox: {
 	DisplayName: Музыкальная шкатулка (Лотор)
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 LothorTrophy: {
 	DisplayName: Трофей Лотора
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BloodbathLocket: {
@@ -1256,17 +1256,17 @@ Bane: {
 
 BackwoodsDayMusicBox: {
 	DisplayName: Музыкальная шкатулка (Чаща)
-	// Tooltip: ""
+	Tooltip: ""
 }
 
-// BackwoodsNightMusicBox: {
-// DisplayName: Music Box (Backwoods)
-// Tooltip: ""
-// }
+BackwoodsNightMusicBox: {
+DisplayName: Music Box (Backwoods)
+Tooltip: ""
+}
 
 BackwoodsFogMusicBox: {
 	DisplayName: Музыкальная шкатулка (Туман в Чаще)
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 LivingPrimordialWand: {
@@ -1314,7 +1314,7 @@ BigTreeSpawner: {
 
 GrimstoneWall: {
 	DisplayName: Стена из мрачного камня
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 Vilethorn: {
@@ -1349,7 +1349,7 @@ EntBanner: {
 
 FlederBanner: {
 	DisplayName: Знамя нетопыря
-	// Tooltip: "{$CommonItemTooltip.BannerBonus}{$Mods.RoA.NPCs.Fleder.DisplayName}"
+	Tooltip: "{$CommonItemTooltip.BannerBonus}{$Mods.RoA.NPCs.Fleder.DisplayName}"
 }
 
 GrimDefenderBanner: {
@@ -1404,7 +1404,7 @@ SentinelWarriorBanner: {
 
 BackwoodsGrassSeeds: {
 	DisplayName: Семена Травы чащи
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BloodCursor: {
@@ -1492,7 +1492,7 @@ FogStarter: {
 
 LothorRelic: {
 	DisplayName: Реликвия Лотора
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ArterialSpray: {
@@ -1545,17 +1545,17 @@ FireLighter: {
 
 LivingBackwoodsLeavesWall: {
 	DisplayName: Стена из живого вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsFlowerGrassWall: {
 	DisplayName: Стена с цветами чащи
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsGrassWall: {
 	DisplayName: Стена с травой чащи
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsDungeonKey: {
@@ -1565,7 +1565,7 @@ BackwoodsDungeonKey: {
 
 BackwoodsDungeonChest: {
 	DisplayName: Сундук чащи
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 WreathCharger: {
@@ -1575,22 +1575,22 @@ WreathCharger: {
 
 HedgehogTerrarium: {
 	DisplayName: Террариум с ёжиком
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsDungeonChest_Trapped: {
 	DisplayName: Сундук-ловушка чащи
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodChest_Trapped: {
 	DisplayName: Сундук-ловушка из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 ElderwoodChest2_Trapped: {
 	DisplayName: Опутанный корнями сундук-ловушка
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 EmptyPlanterBox: {
@@ -1600,17 +1600,17 @@ EmptyPlanterBox: {
 
 BackwoodsStoneChest: {
 	DisplayName: Сундук из полированного мрачного камня
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 GrimstoneBrickWall: {
 	DisplayName: Стена из полированного мрачного камня
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsStoneChest_Trapped: {
 	DisplayName: Сундук-ловушка из полированного мрачного камня
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 FenethStatue: {
@@ -1659,7 +1659,7 @@ DullDaikatana: {
 
 BoneroseHangingPot: {
 	DisplayName: Подвесная костероза
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 LothorEnrageMonolith: {
@@ -1683,7 +1683,7 @@ Has2rJacket: {
 
 Has2rMask: {
 	DisplayName: Маска Неназываемого
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 Has2rPants: {
@@ -1698,7 +1698,7 @@ Has2rPants: {
 
 Has2rShades: {
 	DisplayName: Солнечные очки Неназываемого
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 EldritchRing: {
@@ -1712,7 +1712,7 @@ EldritchRing: {
 
 NFAHorns: {
 	DisplayName: Рога Н. Ф. А.
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 NFAJacket: {
@@ -1726,7 +1726,7 @@ NFAJacket: {
 
 NFAPants: {
 	DisplayName: Штаны Н. Ф. А.
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 NFAWings: {
@@ -1741,17 +1741,17 @@ NFAWings: {
 
 PeegeonChestguard: {
 	DisplayName: Нагрудник Пижона
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 PeegeonGreaves: {
 	DisplayName: Поножи Пижона
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 PeegeonHood: {
 	DisplayName: Капюшон Пижона
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 PeegeonCape: {
@@ -1765,37 +1765,37 @@ PeegeonCape: {
 
 SerorkBreastplate: {
 	DisplayName: Нагрудник Serork'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 SerorkGreaves: {
 	DisplayName: Поножи Serork'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 SerorkHelmet: {
 	DisplayName: Шлем Serork'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 SerorkMask: {
 	DisplayName: Маска Serork'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 BRIPEsHeart: {
 	DisplayName: Сердце BRIPE
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 BRIPEsHelmet: {
 	DisplayName: Шлем BRIPE
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 BRIPEsRocketBoots: {
 	DisplayName: Ракетные ботинки BRIPE
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 cleoChestguard: {
@@ -1818,22 +1818,22 @@ cleoMask: {
 
 cleoPants: {
 	DisplayName: Штаны cleo.
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 HereticHood: {
 	DisplayName: Капюшон Heretic'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 HereticChestguard: {
 	DisplayName: Роба Heretic'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 HereticPants: {
 	DisplayName: Обмотки Heretic'а
-	// Tooltip: "{$Mods.RoA.RoADev}"
+	Tooltip: "{$Mods.RoA.RoADev}"
 }
 
 IOU: {
@@ -1868,7 +1868,7 @@ MercuriumBullet: {
 
 BackwoodsWaterFountain: {
 	DisplayName: Фонтан чащобной воды
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 MercuriumZipper: {
@@ -1903,17 +1903,17 @@ RoyalQualityHoney: {
 
 ElderwoodBeam: {
 	DisplayName: Балка из вечного дерева
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 TealMossWall: {
 	DisplayName: Бирюзовая замшелая стена
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 BackwoodsRootWall: {
 	DisplayName: Стена с чащобными корнями
-	// Tooltip: ""
+	Tooltip: ""
 }
 
 DruidSoul: {
