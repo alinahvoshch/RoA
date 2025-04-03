@@ -85,12 +85,12 @@ RoAServerConfig: {
 	}
 
 	BackwoodsWidthMultiplier: {
-		Label: Множитель ширины лихолесья
+		Label: Множитель ширины чащи
 		Tooltip: ""
 	}
 
 	BackwoodsHeightMultiplier: {
-		Label: Множитель высоты лихолесья
+		Label: Множитель высоты чащи
 		Tooltip: ""
 	}
 
