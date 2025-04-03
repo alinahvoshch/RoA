@@ -95,7 +95,7 @@ RoAServerConfig: {
 	}
 
 	EvilBiomeExtraItemChance: {
-		Label: Шанс выпадения дополнительного предмета со сфер
+		Label: Множ. выпадения доп. предмета со сфер
 		Tooltip: С теневых сфер и багровых сердец сможет выпасть сразу 2 предмета с указанным шансом
 	}
 
@@ -133,6 +133,6 @@ DamageTooltipOptions: {
 
 WreathSoundModes: {
 	Tooltip: ""
-	Normal.Label: Классический
-	Alt.Label: Узорчатый
+	Normal.Label: классический
+	Alt.Label: узорчатый
 }
