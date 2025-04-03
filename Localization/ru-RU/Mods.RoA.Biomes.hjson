@@ -1,8 +1,8 @@
-InBackwoods: В лихолесье
+InBackwoods: В чаще
 
 BackwoodsBiome: {
-	DisplayName: Лихолесье
-	TownNPCDialogueName: Лихолесье
+	DisplayName: Чаща
+	TownNPCDialogueName: Чаща
 }
 
 BackwoodsBiomeFog: {
